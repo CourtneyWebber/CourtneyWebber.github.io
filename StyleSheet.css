@@ -1,0 +1,22 @@
+﻿body
+{
+
+}
+
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:visited{
+    color:black;
+}
+
+img{
+    max-width:100%;
+}
