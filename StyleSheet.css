@@ -9,7 +9,11 @@ header{
     align-items: center;
 }
 
-a{
+img{
+    max-width:100%;
+}
+
+a:link{
     text-decoration:none;
 }
 
@@ -17,6 +21,10 @@ a:visited{
     color:black;
 }
 
-img{
-    max-width:100%;
+a:hover{
+    background-color:cadetblue;
+}
+
+a:active {
+    background-color:cadetblue;
 }
